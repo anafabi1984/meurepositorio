@@ -1,3 +1,11 @@
+O programa consiste em um simulador de empréstimo onde o usuário digita o valor do empréstimo e a quantidade
+    de parcelas desejadas. Ele retorna ao usuário o valor total do empréstimo e o valor da parcela. O programa
+    não aceita que o valor do empréstimo e/ou a quantidade de parcelas seja igual a zero. Além disso, não 
+    permite que o valor do empréstimo seja menor que 100 reais.
+
+
+
+
 ![image](https://github.com/anafabi1984/meurepositorio/assets/138622444/ee6aba18-8bb1-45a8-b6e8-7fffc8f4f87d)
 
 
