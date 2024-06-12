@@ -1,4 +1,4 @@
-O programa consiste em um simulador de empréstimo onde o usuário digita o valor do empréstimo e a quantidade
+O programa, desenvolvido em Java Script,consiste em um simulador de empréstimo onde o usuário digita o valor do empréstimo e a quantidade
     de parcelas desejadas. Ele retorna ao usuário o valor total do empréstimo e o valor da parcela. O programa
     não aceita que o valor do empréstimo e/ou a quantidade de parcelas seja igual a zero. Além disso, não 
     permite que o valor do empréstimo seja menor que 100 reais.
