@@ -5,6 +5,7 @@ Análise de Dados realizada para trabalho da disciplina Business Intelligence do
 Temperatura Máxima Interna e Externa por Mês
 
 Observa-se uma correlação positiva entre a temperatura máxima interna e externa. A maior temperatura externa foi registrada no mês 9 (51 °C), enquanto a maior temperatura interna também ocorreu no mês 9 (41 °C). Isso indica que aumentos significativos na temperatura externa tendem a refletir no ambiente interno.
+
 Temperatura Mínima Interna e Externa por Mês
 
 Não há correlação direta entre as temperaturas mínimas internas e externas. A menor temperatura interna foi registrada no mês 12 (21 °C), enquanto a menor temperatura externa ocorreu no mês 9 (24 °C). Esse comportamento sugere que as condições internas podem ser mais influenciadas por fatores como isolamento térmico e climatização.
