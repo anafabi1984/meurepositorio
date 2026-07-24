@@ -15,9 +15,6 @@ Artista com menos visualizações em streaming.
 Artista com mais visualizações em turnês.
 
 
-Quantos registros essa base possui? 119
-
-<img width="886" height="394" alt="image" src="https://github.com/user-attachments/assets/5125374f-1211-4b18-846e-85299b8652c3" />
 
 Quantos registros essa base possui? 119
 
