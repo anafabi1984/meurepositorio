@@ -14,9 +14,6 @@ Artista com maior número de visualizações totais.
 Artista com menos visualizações em streaming.
 Artista com mais visualizações em turnês.
 
-Quantos artistas constam na base? 89
-
-<img width="638" height="327" alt="image" src="https://github.com/user-attachments/assets/b9fb9a4f-2b35-4843-a83a-a5cdb8926d79" />
 
 Quantos registros essa base possui? 119
 
